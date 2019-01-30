@@ -4,11 +4,12 @@ Benchmark Analysis
 Benchmark Analysis using(Binary Tree, Heap) and two sorting methods(Quick sort, Bubble sort)
 
 SYSTEM INFORMATION:
-Operating System: 3
-memory:4g Ram
-processor:Intel(R) Celeron(R)CPU N3350 @1.10GHz 1.10GHz
+|:----------------:|
+Operating System: Windows 10 Home
+memory: 4g Ram
+processor: Intel(R) Celeron(R)CPU N3350 @1.10GHz 1.10GHz
 System type: 64-bit Operating System, 64-based processor
-Python Version:3
+Python Version: 3
 
 
 |Heap Add|	Heap Min|	Heap Min|
