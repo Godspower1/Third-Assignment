@@ -4,9 +4,8 @@ Benchmark Analysis
 Benchmark Analysis using(Binary Tree, Heap) and two sorting methods(Quick sort, Bubble sort)
 
 
-|Heap|	Heap|	Heap|
+|Heap Add|	Heap Min|	Heap Min|
 |:----:|----:|----:|
-|add|	Min| Max|
 |0.0|	0.0| 0.0|
 |0.6001472473144531| 0.6005764007568359| 0.20036697387695312|
 |3.1213760375976562| 3.1287670135498047| 0.0|
@@ -18,9 +17,8 @@ Benchmark Analysis using(Binary Tree, Heap) and two sorting methods(Quick sort, 
 |3.1212329864501953| 3.1250476837158203| 3.1287193298339844|
 |5.922746658325195|	4.334545135498047| 1.6246318817138672|
 
-|Binary Tree| Binary Tree| Binary Tree|
+|Binary Tree Add| Binary Tree Min| Binary Tree Max|
 |:--------:|---------:|----------:|
-|add|	Min| Max|
 |0.0|	0.0| 0.0|
 |4.357564449310303|	0.050008296966552734|	1.039588451385498|
 |2.34377384185791| 5.46877384185791| 0.7812619209289551|
@@ -34,9 +32,8 @@ Benchmark Analysis using(Binary Tree, Heap) and two sorting methods(Quick sort, 
 
 
 
-|Quicksort| Quicksort| Quicksort|
+|Quicksort Add| Quicksort Min| Quicksort Max|
 |:--------:|---------:|----------:|
-|add|	Min| Max|
 |0.0|	0.0| 0.0|
 |1.5605926513671875| 0.0|	0.0|
 |3.1782031059265137| 0.7803797721862793|	0.0|
@@ -48,9 +45,8 @@ Benchmark Analysis using(Binary Tree, Heap) and two sorting methods(Quick sort, 
 |14.18851613998413|	0.9812831878662109|	3.3260107040405273|
 |11.997759342193604| 2.44295597076416| 2.4420738220214844|
 
-|Bubblesort|	Bubblesort|	Bubblesort|
+|Bubblesort Add|	Bubblesort Min|	Bubblesort Max|
 |:--------:|---------:|----------:|
-|add|	Min| Max|
 |0.0|	0.0| 0.0|
 |0.0|	0.0| 0.0|
 |0.7813572883605957| 0.0| 0.0|
